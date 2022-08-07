@@ -1,0 +1,5 @@
+<?php
+
+$MESS["COOKIESSTUDIO_TOTOP_STEP_BEFORE"] = "Модуль";
+$MESS["COOKIESSTUDIO_TOTOP_STEP_AFTER"] = "установлен";
+$MESS["COOKIESSTUDIO_TOTOP_STEP_SUBMIT_BACK"] = "Вернуться в список";

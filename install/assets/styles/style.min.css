@@ -1,0 +1,16 @@
+#cookiesstudio__totop_button{
+    position: fixed;
+    cursor: pointer;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+#cookiesstudio__totop_button:before{
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 10px solid #fff;
+    display: block;
+}
